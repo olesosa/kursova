@@ -1,0 +1,57 @@
+﻿  Auto.cpp
+  Driver.cpp
+  MyException.cpp
+C:\Users\joker\source\repos\kursova c+\kursova c+\MyException.h(6,12): error C3646: 'msg_': unknown override specifier
+C:\Users\joker\source\repos\kursova c+\kursova c+\MyException.h(6,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joker\source\repos\kursova c+\kursova c+\MyException.h(9,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joker\source\repos\kursova c+\kursova c+\MyException.h(9,29): error C2143: syntax error: missing ',' before '&'
+C:\Users\joker\source\repos\kursova c+\kursova c+\MyException.h(12,12): error C3646: 'getMessage': unknown override specifier
+C:\Users\joker\source\repos\kursova c+\kursova c+\MyException.h(12,22): error C2059: syntax error: '('
+C:\Users\joker\source\repos\kursova c+\kursova c+\MyException.h(12,30): error C2238: unexpected token(s) preceding ';'
+C:\Users\joker\source\repos\kursova c+\kursova c+\MyException.cpp(8,1): error C2011: 'MyException': 'class' type redefinition
+C:\Users\joker\source\repos\kursova c+\kursova c+\MyException.h(3,7): message : see declaration of 'MyException'
+  Source.cpp
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(19,30): error C2969: syntax error: ';': expected member function definition to end with '}'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.cpp(3,7): error C2059: syntax error: 'using namespace'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.cpp(3,20): error C2630: ';' found in what should be a comma-separated list
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.cpp(5,6): error C2630: ';' found in what should be a comma-separated list
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.cpp(5,8): error C2612: trailing ':' illegal in base/member initializer list
+C:\Users\joker\source\repos\kursova c+\kursova c+\Timetable.cpp(5,9): fatal  error C1083: Cannot open include file: 'Base.h': No such file or directory
+  Timetable.cpp
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(7,25): error C2504: 'Auto': base class undefined
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(8,1): error C2504: 'Driver': base class undefined
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(15,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(15,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(15,21): error C2238: unexpected token(s) preceding ';'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(16,11): error C2143: syntax error: missing ';' before '*'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(16,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(16,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(19,30): error C2969: syntax error: ';': expected member function definition to end with '}'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(22,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(22,109): error C2143: syntax error: missing ',' before '*'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Timetable.h(3,7): error C2059: syntax error: '<class-head>'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Timetable.h(4,1): error C2630: ';' found in what should be a comma-separated list
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(19,14): error C2614: 'Trip': illegal member initialization: 'Auto' is not a base or member
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(19,22): error C2614: 'Trip': illegal member initialization: 'Driver' is not a base or member
+C:\Users\joker\source\repos\kursova c+\kursova c+\Timetable.h(5,1): error C2059: syntax error: 'private'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Timetable.h(9,1): error C2059: syntax error: 'public'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Timetable.h(12,6): error C3861: 'Timetable': identifier not found
+C:\Users\joker\source\repos\kursova c+\kursova c+\Timetable.cpp(5,9): fatal  error C1083: Cannot open include file: 'Base.h': No such file or directory
+  Trip.cpp
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(7,25): error C2504: 'Auto': base class undefined
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(8,1): error C2504: 'Driver': base class undefined
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(15,9): error C2143: syntax error: missing ';' before '*'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(15,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(15,21): error C2238: unexpected token(s) preceding ';'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(16,11): error C2143: syntax error: missing ';' before '*'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(16,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(16,19): error C2238: unexpected token(s) preceding ';'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(19,30): error C2969: syntax error: ';': expected member function definition to end with '}'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(22,9): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.h(22,109): error C2143: syntax error: missing ',' before '*'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.cpp(3,7): error C2059: syntax error: 'using namespace'
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.cpp(3,20): error C2630: ';' found in what should be a comma-separated list
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.cpp(5,6): error C2630: ';' found in what should be a comma-separated list
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.cpp(5,8): error C2612: trailing ':' illegal in base/member initializer list
+C:\Users\joker\source\repos\kursova c+\kursova c+\Trip.cpp(49,1): fatal  error C1004: unexpected end-of-file found
+  Generating Code...
