@@ -1,0 +1,11 @@
+C:\Users\joker\source\repos\KURSOVA C#\kursov\bin\Debug\kursov.exe.config
+C:\Users\joker\source\repos\KURSOVA C#\kursov\bin\Debug\kursov.exe
+C:\Users\joker\source\repos\KURSOVA C#\kursov\bin\Debug\kursov.pdb
+C:\Users\joker\source\repos\KURSOVA C#\kursov\obj\Debug\kursov c#.csproj.AssemblyReference.cache
+C:\Users\joker\source\repos\KURSOVA C#\kursov\obj\Debug\kursov c#.csproj.SuggestedBindingRedirects.cache
+C:\Users\joker\source\repos\KURSOVA C#\kursov\obj\Debug\kursov.kursova.resources
+C:\Users\joker\source\repos\KURSOVA C#\kursov\obj\Debug\kursov.Properties.Resources.resources
+C:\Users\joker\source\repos\KURSOVA C#\kursov\obj\Debug\kursov c#.csproj.GenerateResource.cache
+C:\Users\joker\source\repos\KURSOVA C#\kursov\obj\Debug\kursov c#.csproj.CoreCompileInputs.cache
+C:\Users\joker\source\repos\KURSOVA C#\kursov\obj\Debug\kursov.exe
+C:\Users\joker\source\repos\KURSOVA C#\kursov\obj\Debug\kursov.pdb
