@@ -1,5 +1,9 @@
-﻿using System;
+﻿using oop;
+using System;
+using System.Collections;
+using System.Collections.Generic;
 using System.IO;
+using System.Linq;
 
 namespace oop
 {
@@ -196,10 +200,13 @@ namespace oop
         }
     }
 
-    public class TimeTable : Trip // класс РОЗКЛАД
+    public class TimeTable : Trip, IEnumerable, IEnumerator  // класс РОЗКЛАД
     {
         private int size;
         private Trip[] tripArr;
+
+        private int index = 0;
+        public object Current { get; set; }
 
         public TimeTable(int size) // конструктор класу
         {
@@ -220,6 +227,29 @@ namespace oop
             int total = 0;
 
         }
+
+        public bool MoveNext()
+        {
+            if (index >= size)
+            {
+                Reset();
+                return false;
+            }
+
+            Current = tripArr[index++];
+
+            return true;
+        }
+
+        public void Reset()
+        {
+            index = 0;
+        }
+
+        public IEnumerator GetEnumerator()
+        {
+            return this;
+        }
     }
 }
 
@@ -227,6 +257,6 @@ public class Program
 {
     static void Main()
     {
-
+        
     }
 }
